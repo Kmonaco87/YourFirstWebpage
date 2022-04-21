@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <h1>Samantha's Birthday Party</h1>
+    <h4>Come celebrate with us!</h4>
+    <h5>There will be princesses, Dragons and Cotton Candy!</h5>
+    <img src="https://cdn.cdnparenting.com/articles/2018/04/407263582-H.jpg" width="500" height="400"/>
+     <p style="background-color:yellow;">Details: <br> Saturday October 17th, 2020 <br> 4:00pm <br> Prospect Park</p>
+    <footer>RSVP TO: It's my party@gmail.com</footer>
+  </body>
+</html>
